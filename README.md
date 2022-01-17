@@ -1,2 +1,2 @@
 # CMPUT-656
-Knowledge Graph
+Knowledge Graph for Course
